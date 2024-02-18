@@ -1,0 +1,95 @@
+body{
+    background-color: #121212;
+    font-family: Montserrat;
+}
+
+.container {
+    margin-inline: auto;
+
+  }
+
+  .button{
+      color: white;
+    text-decoration:none;
+    border: white solid 1px;
+    border-radius: 10px;
+    padding: 30px 28px;
+    cursor: pointer;
+    list-style-type: none;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    font-size: 30px;
+    justify-content: center;
+}
+
+.button:hover{
+    color: #a5a5a5;
+    background-color: transparent;
+}
+
+.telegram{
+width: 65px;
+height: 40px;
+list-style-type: none;
+}
+
+.vkontakte{
+    width: 65px;
+    height: 37px; 
+}
+
+.discord{
+    width: 60px;
+    height: 60px; 
+
+}
+
+.vopros{
+    width: 44px;
+    height:44px;
+}
+
+
+.discord2:hover{
+    color: #a5a5a5;
+    background-color: transparent;
+}
+
+.block{
+    margin: 135px 500px;
+    list-style-type: none;
+}
+
+.discord2{
+    color: white;
+    text-decoration:none;
+    border: white solid 1px;
+    border-radius: 10px;
+    padding: 30px 28px;
+    cursor: pointer;
+    list-style-type: none;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    font-size: 30px;
+    justify-content: center;
+    height: 38px;
+}
+
+.back{
+    color: white;
+    text-decoration:none;
+    border: white solid 1px;
+    border-radius: 7px;
+    cursor: pointer;
+    font-size: 30px;
+    padding: 4px 6px;
+    margin: auto auto 80px 50px;
+}
+
+.back:hover{
+    color: #a5a5a5
+}

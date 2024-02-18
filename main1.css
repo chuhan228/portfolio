@@ -1,0 +1,61 @@
+body{
+  margin: 0;
+  font-family: Montserrat;
+}
+
+ul{
+  margin: 0;
+  padding: 0;
+}
+
+a{
+  display: inline-block;
+  text-decoration: none;
+}
+
+.container{
+  width: 100%;
+  max-width: 1200px;
+  margin-inline: auto;
+}
+
+.header{
+  background-color: black;
+}
+
+.navigation {
+
+  display: flex;
+  justify-content: flex-end;
+}
+
+
+.menu{
+  display: flex;
+  gap: 32px;
+}
+
+
+.menu-link{
+  color: white;
+ padding-block: 20px;
+}
+
+.menu-link:hover{
+  color: #a5a5a5;;
+}
+
+.england{
+  padding: 0 9px;
+  border: 2px solid white;
+  border-radius: 6px;
+  height: 30px;
+  width: 60px;
+margin-top:12px;
+line-height:30px;
+}
+
+
+
+
+

@@ -1,0 +1,27 @@
+body{
+    background-color: #121212;
+    font-family: Montserrat;
+}
+
+.text{
+    color: white;
+    font-size: 140px;
+    margin:0 ;
+    height: 655px;
+}
+
+.back{
+    color: white;
+    text-decoration:none;
+    border: white solid 1px;
+    border-radius: 7px;
+    cursor: pointer;
+    font-size: 30px;
+    padding: 4px 6px;  
+    margin-top: auto;
+    margin-left: 60px;
+}
+
+.back:hover{
+    color: #a5a5a5
+}
